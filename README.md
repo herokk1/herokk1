@@ -6,7 +6,7 @@ My name is Daniel Lucas, i'm currently studying Web Development and this is wher
 
 Besides coding, i also like Heavy metal, Pixel art and Coffe.
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fpixel-coffee-sticker-by-league-of-legends-for-ios-android--515310382372539252%2F&psig=AOvVaw0w2CP3EgPcVkvpTixiZAJd&ust=1663801954860000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIi8rre_pPoCFQAAAAAdAAAAABAZ">
+<img align="right" alt="Coding" width="400" src="https://pin.it/ax8aHoi">
 
 ## My Tools and Knowledge 🛰
 
