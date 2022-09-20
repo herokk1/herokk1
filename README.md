@@ -6,7 +6,9 @@ My name is Daniel Lucas, i'm currently studying Web Development and this is wher
 
 Besides coding, i also like Heavy metal, Pixel art and Coffe.
 
-<img align="right" alt="Coding" width="400" src="https://giphy.com/stickers/leagueoflegends-transparent-pEuD18F5xjR9SNVmYz">
+<div align="left">
+ <img align="center" alt="Yoda" width="200px" src="img/coffe.gif"/>
+</div>
 
 ## My Tools and Knowledge 🛰
 
