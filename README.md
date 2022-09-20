@@ -2,9 +2,9 @@
 
 ### Good to see you here!
 
-My name is Daniel Lucas, i'm currently studying Web Development and this is where i post most of my codes, feel free to check it out!
+My name is Daniel Lucas, I'm currently studying Web Development and this is where I post most of my codes, feel free to check it out!
 
-Besides coding, i also like Heavy metal, Pixel art and Coffe.
+Besides coding, I also like Heavy metal, Pixel art and Coffe.
 
 <div align="left">
  <img align="center" alt="coffe" width="200px" src="img/coffe.gif"/>
