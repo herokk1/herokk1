@@ -7,7 +7,7 @@ My name is Daniel Lucas, i'm currently studying Web Development and this is wher
 Besides coding, i also like Heavy metal, Pixel art and Coffe.
 
 <div align="left">
- <img align="center" alt="Yoda" width="200px" src="img/coffe.gif"/>
+ <img align="center" alt="coffe" width="200px" src="img/coffe.gif"/>
 </div>
 
 ## My Tools and Knowledge 🛰
