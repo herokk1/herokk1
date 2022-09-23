@@ -18,4 +18,4 @@ Besides coding, I also like Heavy metal, Pixel art and Coffe.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=herokk1&show_icons=true&theme=radical&locale=en&layout=compact" alt="herokk1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=herokk1&" alt="herokk1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=herokk1&theme=highcontrast" alt="herokk1" /></p>
