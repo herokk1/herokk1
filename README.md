@@ -5,7 +5,7 @@
 My name is Daniel Lucas, I'm currently studying Web Development and this is where I post most of my codes, feel free to check it out!
 Personal favorite languages are Javascript followed by CSS, where i can feel my codes having personality and life.
 
-Besides coding, I also like Heavy metal, Pixel art and Coffe.
+Besides coding, I also like Heavy metal, Coffe and hitting the gym 💪.
 
 <div align="left">
  <img align="center" alt="coffe" width="200px" src="img/coffe.gif"/>
