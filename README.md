@@ -1,13 +1,13 @@
-# Hey! What's up? ✌
+## Wassup, how u doing? I'm Daniel Lucas, nice to meet you! ☕
 
-### Good to see you here!
+I'm a Front-End Developer and this is my Workspace, feel free to check out my personal projects.
+So you reached my Github! Feel free to check out my activity and my projects.
 
-My name is Daniel Lucas, I'm currently working as a Front-End Developer and this is where I post most of my codes, feel free to check it out!
-Personal favorite languages are Javascript followed by CSS, where i can feel my codes having personality and life.
+On my spare time i like to play Dungeons and Dragons, listen to Heavy Metal and Workout! 🏋🏻‍♂️💪
 
-My personal Portifolio: herokk1.github.io/Portifolio2.0
+Eu falo fluentemente <b>Português</b>, able to speak almost fluently in <b>English</b>, entiendo un poco de <b>Español</b> und ein bisschen <b>Deutsch</b>.
 
-Besides coding, I also like Heavy metal, Coffe and hitting the gym 💪.
+Check out my Personal Portifolio too: herokk1.github.io/Portifolio2.0
 
 <div align="left">
  <img align="center" alt="coffe" width="200px" src="img/coffe.gif"/>
