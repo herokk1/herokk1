@@ -1,6 +1,5 @@
 ## Wassup, how u doing? I'm Daniel Lucas, nice to meet you! ☕
 
-I'm a Front-End Developer and this is my Workspace, feel free to check out my personal projects.
 So you reached my Github! Feel free to check out my activity and my projects.
 
 On my spare time i like to play Dungeons and Dragons, listen to Heavy Metal and Workout! 🏋🏻‍♂️💪
