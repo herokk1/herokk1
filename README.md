@@ -6,7 +6,7 @@ My personal projects usually are codes that i write while i learn something new 
 
 On my future, i expect to be able to teach begginers about the first steps on coding cuz i consider teaching one of the most respectable things you can do to someone.
 
-My favorite language is CSS and my confort languages is C++ and Shell.
+My favorite language is CSS and my confort languages is C++.
 On my spare time i like to play Dungeons and Dragons, listen to Heavy Metal, play Video games and Workout (bro im ripped, trust me)! 🏋🏻‍♂️💪
 
 Eu falo fluentemente <b>Português</b>, able to speak almost fluently in <b>English</b>, entiendo un poco de <b>Español</b> und ein bisschen <b>Deutsch</b>.
