@@ -4,7 +4,7 @@ So you reached my Github! Feel free to check out my activity and my posts.
 
 My personal projects usually are codes that i write while i learn something new like new languages or frameworks, or codes that i just do for fun like some Lofi websites or things that maybe arent very useful but certainly have a bit of my heart on it. 
 
-On my future, i expect to be able to teach begginers about the first steps on coding cuz i consider teaching one of the most respectable things you can do to someone.
+On my future, I expect to be able to teach begginers about the first steps on coding cuz i consider teaching one of the most respectable things you can do to someone.
 
 My favorite language is CSS, on my spare time i like to play Dungeons and Dragons, listen to Heavy Metal, play Video games and Workout (bro im ripped, trust me)! 🏋🏻‍♂️💪
 
