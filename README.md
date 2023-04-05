@@ -12,6 +12,8 @@ Eu falo fluentemente <b>Português</b>, able to speak almost fluently in <b>Engl
 
 Check out my Personal Portifolio too: herokk1.github.io/Portifolio2.0
 
+Networking is bullshit, lets be best friends forever
+
 <div align="left">
  <img align="center" alt="coffe" width="200px" src="img/coffe.gif"/>
 </div>
