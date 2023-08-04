@@ -1,6 +1,6 @@
 ```javascript
 const Dan = {
-    askMeAbout: ["Front-End development", "Gym" ],
+    askMeAbout: ["Front-End development", "Standardization", "Gym" ],
     technologies: {
         frontEnd: {
             js: ["VueJS", "ReactJS", "Nuxt", "Next"],
